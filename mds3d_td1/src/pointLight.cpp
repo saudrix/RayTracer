@@ -15,6 +15,7 @@ public:
         /**dist = sqrt((x.x() - m_position.x()) * (x.x() - m_position.x())
                    + (x.y() - m_position.y()) * (x.y() - m_position.y())
                    + (x.z() - m_position.z()) * (x.z() - m_position.z()));*/
+        if(dist != nullptr) *dist = (m_position - x).norm();
         return (m_position - x).normalized();
         //return Vector3f(x.x() - m_position.x(), x.y() - m_position.y(), x.z() - m_position.z());
     }
