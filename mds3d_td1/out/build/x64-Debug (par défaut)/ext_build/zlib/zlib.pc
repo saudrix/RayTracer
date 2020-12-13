@@ -1,0 +1,13 @@
+prefix=C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/out/install/x64-Debug (par défaut)
+exec_prefix=C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/out/install/x64-Debug (par défaut)
+libdir=C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/out/install/x64-Debug (par défaut)/lib
+sharedlibdir=C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/out/install/x64-Debug (par défaut)/lib
+includedir=C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/out/install/x64-Debug (par défaut)/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.8
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

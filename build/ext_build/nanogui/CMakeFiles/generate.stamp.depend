@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.19/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CheckCXXSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Internal/CheckSourceRuns.cmake
+C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/ext/nanogui/CMakeLists.txt

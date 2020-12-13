@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\lodepng\lodepng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\lodepng\lodepng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\lodepng\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8C971854-062A-3B8A-AA6A-D68A9341B74F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7098F5C8-24A3-376C-B3A0-2FEEA60A5BD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

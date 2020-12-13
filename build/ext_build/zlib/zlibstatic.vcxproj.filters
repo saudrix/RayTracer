@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\adler32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\compress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\crc32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\deflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\gzclose.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\gzlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\gzread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\gzwrite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inflate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\infback.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inftrees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inffast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\trees.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\uncompr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\build\ext_build\zlib\zconf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\zlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\crc32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\deflate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\gzguts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inffast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inffixed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inflate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\inftrees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\trees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\zutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\ext\zlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8C971854-062A-3B8A-AA6A-D68A9341B74F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7098F5C8-24A3-376C-B3A0-2FEEA60A5BD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

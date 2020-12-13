@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\build\CMakeFiles\ba24160ef5572ef0f86a43e3baa25d32\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D537B02E-8E9E-3F5F-A99A-7836743EB846}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

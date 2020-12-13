@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\block.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\viewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\bitmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\plane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\directionalLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\pointLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\phong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\proplist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\src\flat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\block.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\viewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\object.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\plane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\proplist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\include\integrator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Documents\Cours\3A\Prog3D\TD1_RayTraycing\mds3d_td1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8C971854-062A-3B8A-AA6A-D68A9341B74F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7098F5C8-24A3-376C-B3A0-2FEEA60A5BD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

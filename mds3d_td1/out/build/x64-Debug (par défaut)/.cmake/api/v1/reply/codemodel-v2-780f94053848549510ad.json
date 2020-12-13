@@ -1,0 +1,311 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "ext_build",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						6,
+						7
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.3"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ext",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "ext_build/zlib",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.4.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "ext/zlib",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "ext_build/nanogui",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "ext/nanogui",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "ext_build/nanogui/ext_build/glfw",
+					"childIndexes" : 
+					[
+						5
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.11.2"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "ext/nanogui/ext/glfw"
+				},
+				{
+					"build" : "ext_build/nanogui/ext_build/glfw/src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.11.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 3,
+					"source" : "ext/nanogui/ext/glfw/src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "ext_build/tinyobjloader",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.11"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "ext/tinyobjloader",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "ext_build/lodepng",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.6"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "ext/lodepng",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "mds3d_td1",
+					"targetIndexes" : 
+					[
+						3,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "zlib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "NanoGUI",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "GLFW",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "tinyobjloader",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "lodepng",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "glfw::@e1a83f3f4978d8c6d945",
+					"jsonFile" : "target-glfw-Debug-b05d2cbc394789c07b72.json",
+					"name" : "glfw",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "glfw_objects::@e1a83f3f4978d8c6d945",
+					"jsonFile" : "target-glfw_objects-Debug-024eea40607b2ee8d3f6.json",
+					"name" : "glfw_objects",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "lodepng::@0d6fb39ae22359943a03",
+					"jsonFile" : "target-lodepng-Debug-87d3ffe7fac97fb43b67.json",
+					"name" : "lodepng",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mds3d_raytracer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mds3d_raytracer-Debug-2674c1d92073db19f8b2.json",
+					"name" : "mds3d_raytracer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "nanogui::@778dc1955f638a1c4882",
+					"jsonFile" : "target-nanogui-Debug-5fcd776bdfe534d317eb.json",
+					"name" : "nanogui",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "nanogui-obj::@778dc1955f638a1c4882",
+					"jsonFile" : "target-nanogui-obj-Debug-0b1663c0b425bfe4cf9a.json",
+					"name" : "nanogui-obj",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pugixml::@1513f232e2be2c4ffccf",
+					"jsonFile" : "target-pugixml-Debug-1a2e961b2bad21958cf2.json",
+					"name" : "pugixml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "tinyobjloader::@165dd2f5a6bb6cdcf696",
+					"jsonFile" : "target-tinyobjloader-Debug-bcc25eba216fc68b87f5.json",
+					"name" : "tinyobjloader",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zlibstatic::@fdb6bbf9e302b35e8092",
+					"jsonFile" : "target-zlibstatic-Debug-5bb5efe5884ed0ffa58e.json",
+					"name" : "zlibstatic",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/out/build/x64-Debug (par défaut)",
+		"source" : "C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

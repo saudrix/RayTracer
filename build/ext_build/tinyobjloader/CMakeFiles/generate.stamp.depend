@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.19/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/ext/tinyobjloader/CMakeLists.txt
+C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/ext/tinyobjloader/tinyobjloader-config.cmake.in
+C:/Users/Simon/Documents/Cours/3A/Prog3D/TD1_RayTraycing/mds3d_td1/ext/tinyobjloader/tinyobjloader.pc.in
